@@ -1,0 +1,3 @@
+Trello, Jira dan Youtrack adalah sebuah tools atau perangkat kerja berbasis online dimana user bisa mengelola dan melacak masalah dalam tugas secara individu maupun kelompok.
+
+refactory menggunakan tools Trello
